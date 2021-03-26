@@ -44,6 +44,3 @@ PID Calibration console BED
 ```
 PID_CALIBRATE HEATER=heater_bed TARGET=50 # replace 50 with your average printing temperature
 ```
-
-
-For questions and additional information: https://cutt.ly/Cgow7vL
